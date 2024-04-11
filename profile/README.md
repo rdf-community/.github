@@ -1,6 +1,8 @@
 # RDF Community on GitHub
 
-A platform by the RDF community, for the RDF community
+> A platform by the RDF community, for the RDF community.
+
+Topics: RDF, Knowledge Graphs, Linked Data, Semantic Web, and everything related to it.
 
 Welcome to RDF Community! This GitHub organization is dedicated to both newcomers and seasoned professionals interested in RDF and Linked Data, technologies known for their power but also for their steep learning curve. Our mission is to bridge this gap by providing a wealth of resources, facilitating learning, sharing, and growth within the community.
 
